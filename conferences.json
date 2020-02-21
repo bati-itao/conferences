@@ -1,0 +1,622 @@
+[
+	{
+	"University (Paid)" : [
+		{
+			"Title": "Central Washington University (CWU)",
+			"URL": "http://www.cwu.edu/accessibility-studies/",
+			"Notes": "Program dedicated to increasing awareness for accessibility issues",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Georgia Institute of Technology: Information and Communication Technology (ICT) Accessibility **Verified Certificate**",
+			"URL": "https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Media Access Australia (W3C Member): **Professional Certificate** in Web Accessibility",
+			"URL": "https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Mohawk College: **Ontario College Graduate Certificate** in Accessible Media Production",
+			"URL": "https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "University of Illinois DRES IT Accessibility Badging Program",
+			"URL": "http://disability.illinois.edu/academic-support/accessible-it-group/badging",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "University of Illinois Information Accessibility Design and Policy (IADP): **Certificate Program**",
+			"URL": "https://online.illinois.edu/online-programs/graduate-certificates/information-accessibility-design-policy?iadp",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "University of South Australia: **Professional Certificate** in Web Accessibility",
+			"URL": "https://unisa.edu.au/education-arts-and-social-sciences/school-of-creative-industries/degrees/short-programs/professional-certificate-in-web-accessibility/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Ryerson University: The Chang School: Web Accessibility Auditing and Reporting",
+			"URL": "https://continuing.ryerson.ca/search/publicCourseSearchDetails.do?method=load&courseId=258041&selectedProgramAreaId=18614&selectedProgramStreamId=18642",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Ryerson University: The Chang School: Web Accessibility for Developers",
+			"URL": "https://continuing.ryerson.ca/search/publicCourseSearchDetails.do?method=load&courseId=258107",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "University of Wisconsin-Milwaukee: Certificate in Assistive Technology & Accessible Design",
+			"URL": "https://uwm.edu/healthsciences/academics/certificate-in-assistive-technology-accessible-design/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "DePaul University: Accessibility and Design for Diverse Users",
+			"URL": "https://www.cdm.depaul.edu/academics/Pages/current/Requirements-MS-in-Human-Computer-Interaction.aspx",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}
+	],
+	"Private (Paid)" : [
+		{
+			"Title": "4syllables's Accessibility for web writers",
+			"URL": "http://4syllables.com.au/training/web-writing-accessibility/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Deque University",
+			"URL": "https://www.deque.com/services/deque-university/",
+			"Notes": "Note: PwD are eligible for scholarships",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Level Access (previously SSB Bart Group) - Access University",
+			"URL": "https://www.levelaccess.com/products/access-university/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Online Learning Consortium (OLC) Institute for Professional Development Accessibility Track",
+			"URL": "https://onlinelearningconsortium.org/learn/olc-new-institute-schedule/#track-Accessibility",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Pacellio Group - TPG Tutor",
+			"URL": "https://www.paciellogroup.com/products/tpg-tutor/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Pluralsight - Making a Web Form Accessible",
+			"URL": "https://www.pluralsight.com/courses/web-form-accessible",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Pluralsight - Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.0)",
+			"URL": "https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Siteimprove Academy",
+			"URL": "https://siteimprove.com/en-ca/services/e-learning-courses/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Styles in MS Word: A Primer for Accessible Document Design, the Course!",
+			"URL": "http://www.karlencommunications.com/StylesInWordCourse.html",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Team Treehouse - Web Accessibility Compliance",
+			"URL": "https://teamtreehouse.com/library/web-accessibility-compliance",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "UX Foundations: Accessibility",
+			"URL": "https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "WebAIM's Web Accessibility Training",
+			"URL": "http://webaim.org/training/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}
+	],
+	"Conferences & Events" : [
+		{
+			"Title": "A11Y Project Events",
+			"URL": "https://a11yproject.com/events/#upcoming",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "* A11yTO",
+			"URL": "https://a11yto.com",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "* A11yCamp Australia",
+			"URL": "https://a11ycamp.org.au/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Accessing Higher Ground",
+			"URL": "http://accessinghigherground.org",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Accessible by Design",
+			"URL": "https://accessiblebydesign.org",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "ASSETS: ACM SIGACCESS Conference on Computers and Accessibility",
+			"URL": "https://assets19.sigaccess.org/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "CSUN Assistive Technology Conference",
+			"URL": "http://www.csun.edu/cod/conference",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Environments for Humans' Accessibility Summit",
+			"URL": "http://environmentsforhumans.com/2017/accessu-summit/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Inclusive Design 24 (#ID24)",
+			"URL": "http://www.inclusivedesign24.org/:",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "* October 2019 Playlist (YouTube)",
+			"URL": "https://www.youtube.com/playlist?list=PLn7dsvRdQEfFd5n_h8gltIoTfzUE_zywu",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "* October 2018 Playlist (YouTube)",
+			"URL": "https://www.youtube.com/playlist?list=PLn7dsvRdQEfEnBxpVztmJ8KCKNJ_P-hR6",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "* November 2017 Playlist (YouTube)",
+			"URL": "https://www.youtube.com/playlist?list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "* June 2017 Playlist (YouTube)",
+			"URL": "https://www.youtube.com/playlist?list=PL95LOQw9SLWwqX2xoYidVO2YA7gknhmcx",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "* 2016 Playlist (YouTube)",
+			"URL": "https://www.youtube.com/playlist?list=PL95LOQw9SLWxmcZtzBiFuT9HAJKFJnl2n",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "* 2014 Playlist (YouTube)",
+			"URL": "https://www.youtube.com/playlist?list=PL95LOQw9SLWzKYfjwmx6edsP1Exs83CKc",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Knowbility's AccessU",
+			"URL": "https://www.knowbility.org/education/accessu/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Web4All",
+			"URL": "http://w4a.info",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "ZeroCon",
+			"URL": "https://conference.zeroproject.org/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}
+	],
+	"Free" : [
+		{
+			"Title": "Accessibility MOOC",
+			"URL": "http://accessibility.mrooms.net/#a11y",
+			"Notes": "Inclusive Online Course Design",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Digital Accessibility as a Business Practice",
+			"URL": "https://de.ryerson.ca/wa/business/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Future Learn - Digital Accessibility: Enabling Participation in the Information Society",
+			"URL": "https://www.futurelearn.com/courses/digital-accessibility",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Google's Udacity Accessibility course (text version)",
+			"URL": "https://developers.google.com/web/fundamentals/accessibility/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Google's Udacity Web Accessibility - Developing with Empathy",
+			"URL": "https://www.udacity.com/course/web-accessibility--ud891",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Microsoft's Training teachers to author accessible content",
+			"URL": "https://education.microsoft.com/courses-and-resources/courses/training-teachers-to-author-accessible-content",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Professional Web #A11y Auditing Made Easy",
+			"URL": "https://de.ryerson.ca/wa/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Start Building Accessible Web Applications Today, by Marcy Sutton",
+			"URL": "https://egghead.io/courses/start-building-accessible-web-applications-today",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Ryerson University: Introduction to Web Accessibility",
+			"URL": "https://de.ryerson.ca/wa/introduction/",
+			"Notes": "Start date TBD",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Teach Access - Study Away Silicon Valley",
+			"URL": "http://teachaccess.org/",
+			"Notes": "In partnership with <a href=\"https://www.peatworks.org/\">PEAT</a>",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Teach Access Tutorial",
+			"URL": "https://teachaccess.github.io/tutorial/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "UC Berkeley Intro to Course #Accessibility",
+			"URL": "http://bit.ly/coursea11y",
+			"Notes": "6 modules on designing accessible content",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Open.edu: Assistive technologies and online learning",
+			"URL": "http://www.open.edu/openlearn/education-development/assistive-technologies-and-online-learning/content-section-0",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Ryerson University & Canvas.net: Web Accessibility for Developers",
+			"URL": "https://www.canvas.net/browse/ryersonu/courses/adv-web-accessibility",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "University of Colorado Boulder & Coursera: Basics of Inclusive Design for Online Education",
+			"URL": "https://www.coursera.org/learn/inclusive-design",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Minnesota IT Services: Accessible Word Document Training",
+			"URL": "https://mn.gov/mnit/about-mnit/accessibility/training/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "UNICEF Agora Training on Web Accessibility",
+			"URL": "https://agora.unicef.org/local/search/index.php?resetsession=1&search=accessibility",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "edX & W3C - Introduction to Web Accessibility",
+			"URL": "https://www.edx.org/course/web-accessibility-introduction",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}
+	],
+	"Webinars" : [
+		{
+			"Title": "3playmedia",
+			"URL": "http://www.3playmedia.com/resources/webinars/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Accessibility Association",
+			"URL": "http://www.accessibilityassociation.org/content.asp?contentid=161",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Accessibility Talks (A11Y Talks)",
+			"URL": "https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/about",
+			"Notes": "Virtual meetup and video series",
+			"Cost": "",
+			"Comments": ""
+		}
+	],
+	"Educational Videos" : [
+		{
+			"Title": "3playmedia's Videos",
+			"URL": "http://www.3playmedia.com/resources/videos/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "A11ycasts with Rob Dodson",
+			"URL": "https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Debugging Accessibility with Alice Boxhall",
+			"URL": "https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Marcy Sutton's Accessibility Presentations",
+			"URL": "https://marcysutton.com/talks/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "State of Texas Creating Accessible Microsoft Office Documents",
+			"URL": "https://gov.texas.gov/organization/disabilities/accessibledocs",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "A11ycasts",
+			"URL": "https://www.youtube.com/results?search_query=A11ycasts",
+			"Notes": "Created by Google Chrome Developers",
+			"Cost": "",
+			"Comments": ""
+		}
+	],
+	"Meetups" : [
+		{
+			"Title": "Accessibility and Inclusive Design Meetup Groups",
+			"URL": "http://www.lireo.com/accessibility-inclusive-design-in-person-groups/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "AccessMeetups Twitter list",
+			"URL": "https://twitter.com/webaxe/lists/accessmeetups",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Accessibility DC",
+			"URL": "https://www.meetup.com/Accessibility-DC/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Boston Accessibility",
+			"URL": "https://www.meetup.com/a11yBos/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Buffalo Accessibility Meet-up (Buffa11y)",
+			"URL": "http://buffa11y.org",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Chicago Digital Accessibility and Inclusive Design",
+			"URL": "https://www.meetup.com/a11ychi/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "London Accessibility Meetup",
+			"URL": "https://www.meetup.com/London-Accessibility-Meetup/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Montreal's web accessibility & inclusive design meet-up",
+			"URL": "https://www.meetup.com/a11ymtl/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Mid-MO Web Accessibility Meetup",
+			"URL": "https://www.facebook.com/groups/1981893992043062/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "New York City A11yNYC",
+			"URL": "http://a11ynyc.com/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Ottawa a11yYOW",
+			"URL": "https://www.meetup.com/a11yOttawa",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Portland Accessibility and User Experience Meetup",
+			"URL": "https://www.meetup.com/Portland-Accessibility-and-User-Experience-Meetup/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Quebec City a11yQC",
+			"URL": "http://a11yqc.org/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Raleigh-Durham a11yRTP",
+			"URL": "https://www.meetup.com/a11yRTP/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "role=drinks",
+			"URL": "https://www.roledrinks.com/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "role=drinks Hamburg",
+			"URL": "http://www.roledrinks.de/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "San Francisco",
+			"URL": "https://www.meetup.com/a11ybay/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Seattle Area Accessibility & Inclusive Design",
+			"URL": "https://www.meetup.com/a11ysea/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Toronto a11yTO",
+			"URL": "https://www.meetup.com/a11yTo/",
+			"Notes": "both a meetup and a conference",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Web Accessibility & Inclusive Design - Sydney",
+			"URL": "https://www.meetup.com/Sydney-Web-Accessibility-Inclusive-Design/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Web Accessibility & Inclusive Design - Melbourne",
+			"URL": "https://www.meetup.com/Melbourne-Web-Accessibility-Inclusive-Design/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Digital Accessibility and Inclusive Design Meetup - Auckland",
+			"URL": "https://www.meetup.com/Auckland-Digital-Accessibility-and-Inclusive-Design-Meetup/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}
+	],
+	"Certificates" : [
+		{
+			"Title": "International Association of Accessibility Professionals (IAAP) Certification",
+			"URL": "http://www.accessibilityassociation.org/certification",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Media Access Australia (W3C Member): Professional Certificate in Web Accessibility",
+			"URL": "https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Mohawk College: Ontario College Graduate Certificate in Accessible Media Production",
+			"URL": "https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}
+	],
+	"Vendor Materials" : [
+		{
+			"Title": "Chrome & Chrome OS Accessibility (on YouTube)",
+			"URL": "https://www.youtube.com/playlist?list=PL5aqr5w5fRe7QWzXhqxrilIVduWEmLHM2",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}
+	],
+	"More Information" : [
+		{
+			"Title": "Books, tutorials & blogs here",
+			"URL": "https://github.com/mgifford/a11y-courses/blob/master/Reading-Material.md",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Follow these people on Twitter",
+			"URL": "https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "A11ySlack Slack Channel",
+			"URL": "https://developer.paciellogroup.com/blog/2015/07/anybody-can-be-an-a11y-slacker/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}, {
+			"Title": "Digital A11y: Digital Accessibility Courses Roundup",
+			"URL": "https://www.digitala11y.com/digital-accessibility-courses-roundup/",
+			"Notes": "",
+			"Cost": "",
+			"Comments": ""
+		}
+	]
+}
+]
